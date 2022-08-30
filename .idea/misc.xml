@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_live_video_classification.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2477355072463768" />
+        <entry key="app/src/main/res/layout/camera_ui_container.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/fragment_camera.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/texture_view.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
